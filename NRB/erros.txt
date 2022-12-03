@@ -1,0 +1,5166 @@
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Bijuu (/mob/jutsus/verb/Libertar_Ichibi)
+  source file: Bijuus.dm,209
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the grass (412,577,1) (/turf/grass)
+  call stack:
+Iago (/mob): Libertar Bijuu()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Bijuu (/mob/jutsus/verb/Libertar_Ichibi)
+  source file: Bijuus.dm,209
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: Big Tree (423,567,1) (/turf/KakashiTree4)
+  call stack:
+Iago (/mob): Libertar Bijuu()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Bijuu (/mob/jutsus/verb/Libertar_Ichibi)
+  source file: Bijuus.dm,209
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (421,566,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Bijuu()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Bijuu (/mob/jutsus/verb/Libertar_Ichibi)
+  source file: Bijuus.dm,209
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (426,565,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Bijuu()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,336
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (420,616,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,336
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (420,616,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,336
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (420,616,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,336
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (420,616,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,336
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (420,616,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,336
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,336
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot read null.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read null.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read null.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read null.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read null.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot read null.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (421,570,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot read null.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (421,570,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read null.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (421,570,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Hachibi (/mob/jutsus/verb/Libertar_Hachibi)
+  source file: Bijuus.dm,76
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Hachibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Hachibi (/mob/jutsus/verb/Libertar_Hachibi)
+  source file: Bijuus.dm,76
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Hachibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Hachibi (/mob/jutsus/verb/Libertar_Hachibi)
+  source file: Bijuus.dm,76
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the grass (389,584,1) (/turf/grass)
+  call stack:
+Iago (/mob): Libertar Hachibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Gobi (/mob/jutsus/verb/Libertar_Gobi)
+  source file: Bijuus.dm,133
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (41,5,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Gobi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Gobi (/mob/jutsus/verb/Libertar_Gobi)
+  source file: Bijuus.dm,133
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,6,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Gobi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Hachibi (/mob/jutsus/verb/Libertar_Hachibi)
+  source file: Bijuus.dm,76
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,9,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Hachibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Rokubi (/mob/jutsus/verb/Libertar_Rokubi)
+  source file: Bijuus.dm,114
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,12,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Rokubi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Nibi (/mob/jutsus/verb/Libertar_Nibi)
+  source file: Bijuus.dm,190
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,9,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Nibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Sanbi (/mob/jutsus/verb/Libertar_Sanbi)
+  source file: Bijuus.dm,171
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,7,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Sanbi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Ichibi (/mob/jutsus/verb/Libertar_Ichibi)
+  source file: Bijuus.dm,209
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,7,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Ichibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Kyuubi (/mob/jutsus/verb/Libertar_Kyuubi)
+  source file: Bijuus.dm,57
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,7,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Kyuubi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Yonbi (/mob/jutsus/verb/Libertar_Yonbi)
+  source file: Bijuus.dm,152
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,7,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Yonbi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Nibi (/mob/jutsus/verb/Libertar_Nibi)
+  source file: Bijuus.dm,190
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,7,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Nibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Kyuubi (/mob/jutsus/verb/Libertar_Kyuubi)
+  source file: Bijuus.dm,57
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,7,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Kyuubi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Ichibi (/mob/jutsus/verb/Libertar_Ichibi)
+  source file: Bijuus.dm,209
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,7,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Ichibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Ichibi (/mob/jutsus/verb/Libertar_Ichibi)
+  source file: Bijuus.dm,209
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,7,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Ichibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Yonbi (/mob/jutsus/verb/Libertar_Yonbi)
+  source file: Bijuus.dm,152
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the housex1 (40,7,8) (/turf/wwhousex/housex1)
+  call stack:
+Iago (/mob): Libertar Yonbi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Hachibi (/mob/jutsus/verb/Libertar_Hachibi)
+  source file: Bijuus.dm,76
+runtime error: Cannot modify null.dono.
+proc name: Libertar Sanbi (/mob/jutsus/verb/Libertar_Sanbi)
+  source file: Bijuus.dm,171
+runtime error: Cannot modify null.dono.
+proc name: Libertar Rokubi (/mob/jutsus/verb/Libertar_Rokubi)
+  source file: Bijuus.dm,114
+runtime error: Cannot modify null.dono.
+proc name: Libertar Gobi (/mob/jutsus/verb/Libertar_Gobi)
+  source file: Bijuus.dm,133
+runtime error: Cannot modify null.dono.
+proc name: Libertar Gobi (/mob/jutsus/verb/Libertar_Gobi)
+  source file: Bijuus.dm,133
+runtime error: Cannot modify null.dono.
+proc name: Libertar Gobi (/mob/jutsus/verb/Libertar_Gobi)
+  source file: Bijuus.dm,133
+runtime error: Cannot modify null.dono.
+proc name: Libertar Nibi (/mob/jutsus/verb/Libertar_Nibi)
+  source file: Bijuus.dm,190
+runtime error: Cannot modify null.dono.
+proc name: Libertar Kyuubi (/mob/jutsus/verb/Libertar_Kyuubi)
+  source file: Bijuus.dm,57
+runtime error: Cannot modify null.dono.
+proc name: Libertar Ichibi (/mob/jutsus/verb/Libertar_Ichibi)
+  source file: Bijuus.dm,209
+runtime error: Cannot modify null.dono.
+proc name: Libertar Yonbi (/mob/jutsus/verb/Libertar_Yonbi)
+  source file: Bijuus.dm,152
+runtime error: Cannot modify null.dono.
+proc name: Libertar Sanbi (/mob/jutsus/verb/Libertar_Sanbi)
+  source file: Bijuus.dm,171
+runtime error: Cannot modify null.dono.
+proc name: Libertar Sanbi (/mob/jutsus/verb/Libertar_Sanbi)
+  source file: Bijuus.dm,171
+runtime error: Cannot modify null.dono.
+proc name: Libertar Hachibi (/mob/jutsus/verb/Libertar_Hachibi)
+  source file: Bijuus.dm,76
+runtime error: Cannot modify null.dono.
+proc name: Libertar Gobi (/mob/jutsus/verb/Libertar_Gobi)
+  source file: Bijuus.dm,133
+runtime error: Cannot modify null.dono.
+proc name: Libertar Rokubi (/mob/jutsus/verb/Libertar_Rokubi)
+  source file: Bijuus.dm,114
+runtime error: Cannot read 0.dono
+proc name: Ver Subs Mundo (/mob/ADM/verb/Quemtaemqualsub)
+  source file: Admin.dm,4728
+runtime error: Cannot read 0.dono
+proc name: Ver Subs Mundo (/mob/ADM/verb/Quemtaemqualsub)
+  source file: Admin.dm,4728
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Hachibi (/mob/jutsus/verb/Libertar_Hachibi)
+  source file: Bijuus.dm,76
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Hachibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Gobi (/mob/jutsus/verb/Libertar_Gobi)
+  source file: Bijuus.dm,133
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Gobi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Nibi (/mob/jutsus/verb/Libertar_Nibi)
+  source file: Bijuus.dm,190
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Nibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Rokubi (/mob/jutsus/verb/Libertar_Rokubi)
+  source file: Bijuus.dm,114
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Rokubi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Sanbi (/mob/jutsus/verb/Libertar_Sanbi)
+  source file: Bijuus.dm,171
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Sanbi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Yonbi (/mob/jutsus/verb/Libertar_Yonbi)
+  source file: Bijuus.dm,152
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Yonbi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Kyuubi (/mob/jutsus/verb/Libertar_Kyuubi)
+  source file: Bijuus.dm,57
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Kyuubi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Kyuubi (/mob/jutsus/verb/Libertar_Kyuubi)
+  source file: Bijuus.dm,57
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Kyuubi()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Hachibi (/mob/jutsus/verb/Libertar_Hachibi)
+  source file: Bijuus.dm,76
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Hachibi()
+runtime error: Cannot modify null.dono.
+proc name: Libertar Hachibi (/mob/jutsus/verb/Libertar_Hachibi)
+  source file: Bijuus.dm,76
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Libertar Hachibi()
+runtime error: Cannot read 0.dono
+proc name: Ver Bijuus Mundo (/mob/ADM/verb/Quemtaemqualbijuu)
+  source file: Bijuus.dm,337
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Ver Bijuus Mundo()
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot read 0.dono
+proc name: Invocar Bijuus (/mob/ADM/verb/InvocarBijuus)
+  source file: Bijuus.dm,262
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): Invocar Bijuus()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/ADM/verb/ADMEspionar) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeHachibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSishibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeRokubi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeGobi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeYonbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeSanbi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeNibi) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeShukaku) is not defined
+Warning: type read from file (/mob/ADM/verb/MakeKyuubi) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5674
+  usr: (src)
+  src: Iago (/mob)
+  src.loc: the gramaesc1 (416,581,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+Iago (/mob): LoadParte1()
+Iago (/mob): Choice()
+Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5649
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the dense (25,16,4) (/turf/dense)
+  call stack:
+Iago762 (/mob): Load()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+proc name: SaveK (/mob/proc/SaveK)
+  source file: Mecanica.dm,5621
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): SaveK()
+Iago762 (/mob): Logando()
+Iago762 (/mob): LoadParte1()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+proc name: MDD (/mob/proc/MDD)
+  source file: Admin.dm,2731
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): MDD()
+Iago762 (/mob): Logando()
+proc name: AutoSave (/mob/proc/AutoSave)
+  source file: Mecanica.dm,5601
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the housex3 (47,15,6) (/turf/wwhousex/housex3)
+  call stack:
+Iago762 (/mob): AutoSave()
+Iago762 (/mob): Salvar()
+proc name: AutoSave (/mob/proc/AutoSave)
+  source file: Mecanica.dm,5601
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the housex3 (47,15,6) (/turf/wwhousex/housex3)
+  call stack:
+Iago762 (/mob): AutoSave()
+Iago762 (/mob): Salvar()
+proc name: AutoSave (/mob/proc/AutoSave)
+  source file: Mecanica.dm,5601
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the housex3 (46,17,6) (/turf/wwhousex/housex3)
+  call stack:
+Iago762 (/mob): AutoSave()
+Iago762 (/mob): Limpar Icon(Iago762 (/mob))
+proc name: SaveK (/mob/proc/SaveK)
+  source file: Mecanica.dm,5621
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the housex3 (53,17,6) (/turf/wwhousex/housex3)
+  call stack:
+Iago762 (/mob): SaveK()
+Iago762 (/client): Del()
+Iago762 (/client): Del()
+proc name: AutoSave (/mob/proc/AutoSave)
+  source file: Mecanica.dm,5601
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the housex3 (53,17,6) (/turf/wwhousex/housex3)
+  call stack:
+Iago762 (/mob): AutoSave()
+Iago762 (/client): Del()
+Iago762 (/client): Del()
+proc name: AutoSave (/mob/proc/AutoSave)
+  source file: Mecanica.dm,5601
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the housex3 (53,17,6) (/turf/wwhousex/housex3)
+  call stack:
+Iago762 (/mob): AutoSave()
+Iago762 (/mob): Logout()
+proc name: scoreboard handling (/proc/scoreboard_handling)
+  source file: Rank.dm,100
+  usr: (src)
+  src: null
+  call stack:
+scoreboard handling("save")
+world: Del()
+proc name: SaveCasas (/proc/SaveCasas)
+  source file: Casa.dm,43
+  usr: (src)
+  src: null
+  call stack:
+SaveCasas()
+world: Del()
+world: Del()
+proc name: SalvarBijuus (/proc/SalvarBijuus)
+  source file: Bijuus.dm,33
+  usr: (src)
+  src: null
+  call stack:
+SalvarBijuus()
+world: Del()
+world: Del()
+world: Del()
+proc name: BancosSave (/proc/BancosSave)
+  source file: NPCs.dm,7108
+  usr: (src)
+  src: null
+  call stack:
+BancosSave()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5649
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the dense (45,45,4) (/turf/dense)
+  call stack:
+Iago762 (/mob): Load()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+proc name: SaveK (/mob/proc/SaveK)
+  source file: Mecanica.dm,5621
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): SaveK()
+Iago762 (/mob): Logando()
+Iago762 (/mob): LoadParte1()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+proc name: MDD (/mob/proc/MDD)
+  source file: Admin.dm,2731
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): MDD()
+Iago762 (/mob): Logando()
+proc name: SaveK (/mob/proc/SaveK)
+  source file: Mecanica.dm,5621
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): SaveK()
+Iago762 (/client): Del()
+Iago762 (/client): Del()
+proc name: AutoSave (/mob/proc/AutoSave)
+  source file: Mecanica.dm,5601
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): AutoSave()
+Iago762 (/client): Del()
+Iago762 (/client): Del()
+proc name: AutoSave (/mob/proc/AutoSave)
+  source file: Mecanica.dm,5601
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): AutoSave()
+Iago762 (/mob): Logout()
+proc name: scoreboard handling (/proc/scoreboard_handling)
+  source file: Rank.dm,100
+  usr: (src)
+  src: null
+  call stack:
+scoreboard handling("save")
+world: Del()
+proc name: SaveCasas (/proc/SaveCasas)
+  source file: Casa.dm,43
+  usr: (src)
+  src: null
+  call stack:
+SaveCasas()
+world: Del()
+world: Del()
+proc name: SalvarBijuus (/proc/SalvarBijuus)
+  source file: Bijuus.dm,33
+  usr: (src)
+  src: null
+  call stack:
+SalvarBijuus()
+world: Del()
+world: Del()
+world: Del()
+proc name: BancosSave (/proc/BancosSave)
+  source file: NPCs.dm,7108
+  usr: (src)
+  src: null
+  call stack:
+BancosSave()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot read null.screen
+proc name: atualizar (/mob/proc/atualizar)
+  source file: naruto way of the shinobi.dm,217
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the muddy (506,35,9) (/turf/muddy)
+  call stack:
+Uchiha Iago (/mob): atualizar()
+Uchiha Iago (/mob): atualizar()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/jutsu/verb/NovoKamui) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5763
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (543,393,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): LoadParte1()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (547,385,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(the grama1 (547,385,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (547,385,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(the grama1 (547,385,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (547,385,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(the grama1 (547,385,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: Big Tree (546,384,1) (/turf/KakashiTree2)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(Big Tree (546,384,1) (/turf/KakashiTree2), 2)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: Big Tree (546,384,1) (/turf/KakashiTree2)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(Big Tree (546,384,1) (/turf/KakashiTree2), 2)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: Big Tree (546,384,1) (/turf/KakashiTree2)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(Big Tree (546,384,1) (/turf/KakashiTree2), 2)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: Big Tree (546,384,1) (/turf/KakashiTree2)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(Big Tree (546,384,1) (/turf/KakashiTree2), 2)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (545,385,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(the grama1 (545,385,1) (/turf/nffgrama/grama1), 8)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (545,385,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(the grama1 (545,385,1) (/turf/nffgrama/grama1), 8)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (545,385,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(the grama1 (545,385,1) (/turf/nffgrama/grama1), 8)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (545,385,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(the grama1 (545,385,1) (/turf/nffgrama/grama1), 8)
+runtime error: Cannot read null.client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2596
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (545,385,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(null)
+Uchiha the iagoCírculo de Deus (/obj/Peins): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha the iagoCírculo de Deus (/obj/Peins): Move(the grama1 (545,385,1) (/turf/nffgrama/grama1), 8)
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot execute null.SaveK().
+proc name: Del (/client/Del)
+  source file: Login.dm,786
+  usr: null
+  src: Guest-307588091 (/client)
+  call stack:
+Guest-307588091 (/client): Del()
+Guest-307588091 (/client): Del()
+Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot execute null.SaveK().
+proc name: Del (/client/Del)
+  source file: Login.dm,789
+  usr: null
+  src: Guest-307588091 (/client)
+  call stack:
+Guest-307588091 (/client): Del()
+Guest-307588091 (/client): Del()
+Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (399,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (399,306,1) (/turf/nffpisoskonoha/pisokonoha), 4)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (399,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (399,306,1) (/turf/nffpisoskonoha/pisokonoha), 4)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 4)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 4)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 4)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 4)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago Mascara Raiton (/mob/enemy/Mask1)
+  src.loc: the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago Mascara Raiton (/mob/enemy/Mask1): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago Mascara Raiton (/mob/enemy/Mask1))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha), 6)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago Mascara Raiton (/mob/enemy/Mask1)
+  src.loc: the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago Mascara Raiton (/mob/enemy/Mask1): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago Mascara Raiton (/mob/enemy/Mask1))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha), 6)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago Mascara Raiton (/mob/enemy/Mask1)
+  src.loc: the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago Mascara Raiton (/mob/enemy/Mask1): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago Mascara Raiton (/mob/enemy/Mask1))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha), 6)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago Mascara Raiton (/mob/enemy/Mask1)
+  src.loc: the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago Mascara Raiton (/mob/enemy/Mask1): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago Mascara Raiton (/mob/enemy/Mask1))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha), 6)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago Mascara Raiton (/mob/enemy/Mask1)
+  src.loc: the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago Mascara Raiton (/mob/enemy/Mask1): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago Mascara Raiton (/mob/enemy/Mask1))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (397,306,1) (/turf/nffpisoskonoha/pisokonoha), 6)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 4)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 4)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 5)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 5)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 5)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 5)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+  usr: 0
+  src: Uchiha the iago (/mob)
+  src.loc: the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+Uchiha the iago (/mob): Death(0)
+Uchiha the iago Mascara Raiton (/obj/Peins): Bump(Uchiha the iago (/mob))
+Uchiha the iago Mascara Raiton (/obj/Peins): Move(the pisokonoha (400,306,1) (/turf/nffpisoskonoha/pisokonoha), 5)
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot execute null.GenjOfensivo().
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2589
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot execute null.SaveK().
+proc name: Del (/client/Del)
+  source file: Login.dm,808
+  usr: null
+  src: Iago762 (/client)
+  call stack:
+Iago762 (/client): Del()
+Iago762 (/client): Del()
+Death(null)
+OrgLuaE (123,638,8) (/turf/OrgLuaE): Enter(null, Snow2 (123,637,8) (/turf/Snow2))
+Move(OrgLuaE (123,638,8) (/turf/OrgLuaE), 1)
+Move(OrgLuaE (123,638,8) (/turf/OrgLuaE), 1)
+Iago762 (/client): North()
+runtime error: Cannot execute null.AutoSave().
+proc name: Enter (/turf/OrgLuaE/Enter)
+  source file: Turfs Lua.dm,93
+  usr: null
+  src: OrgLuaE (123,638,8) (/turf/OrgLuaE)
+  call stack:
+OrgLuaE (123,638,8) (/turf/OrgLuaE): Enter(null, Snow2 (123,637,8) (/turf/Snow2))
+Move(OrgLuaE (123,638,8) (/turf/OrgLuaE), 1)
+Move(OrgLuaE (123,638,8) (/turf/OrgLuaE), 1)
+North()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,21
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5817
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the dense (25,16,4) (/turf/dense)
+  call stack:
+Iago762 (/mob): Load()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+proc name: SaveK (/mob/proc/SaveK)
+  source file: Mecanica.dm,5789
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): SaveK()
+Iago762 (/mob): Logando()
+Iago762 (/mob): LoadParte1()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+proc name: MDD (/mob/proc/MDD)
+  source file: Admin.dm,2815
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): MDD()
+Iago762 (/mob): Logando()
+proc name: SaveK (/mob/proc/SaveK)
+  source file: Mecanica.dm,5789
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: NONPK (76,23,6) (/turf/NONPK)
+  call stack:
+Iago762 (/mob): SaveK()
+Iago762 (/client): Del()
+Iago762 (/client): Del()
+proc name: AutoSave (/mob/proc/AutoSave)
+  source file: Mecanica.dm,5769
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: NONPK (76,23,6) (/turf/NONPK)
+  call stack:
+Iago762 (/mob): AutoSave()
+Iago762 (/client): Del()
+Iago762 (/client): Del()
+proc name: AutoSave (/mob/proc/AutoSave)
+  source file: Mecanica.dm,5769
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: NONPK (76,23,6) (/turf/NONPK)
+  call stack:
+Iago762 (/mob): AutoSave()
+Iago762 (/mob): Logout()
+proc name: scoreboard handling (/proc/scoreboard_handling)
+  source file: Rank.dm,100
+  usr: (src)
+  src: null
+  call stack:
+scoreboard handling("save")
+world: Del()
+proc name: SalvarDiplomacia (/proc/SalvarDiplomacia)
+  source file: Diplomacia.dm,24
+  usr: (src)
+  src: null
+  call stack:
+SalvarDiplomacia()
+world: Del()
+world: Del()
+world: Del()
+proc name: SaveCasas (/proc/SaveCasas)
+  source file: Casa.dm,43
+  usr: (src)
+  src: null
+  call stack:
+SaveCasas()
+world: Del()
+world: Del()
+world: Del()
+proc name: SalvarBijuus (/proc/SalvarBijuus)
+  source file: Bijuus.dm,32
+  usr: (src)
+  src: null
+  call stack:
+SalvarBijuus()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+proc name: SubAkatSave (/proc/SubAkatSave)
+  source file: Admin.dm,4762
+  usr: (src)
+  src: null
+  call stack:
+SubAkatSave()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+proc name: BancosSave (/proc/BancosSave)
+  source file: NPCs.dm,7482
+  usr: (src)
+  src: null
+  call stack:
+BancosSave()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot execute null.SaveK().
+proc name: Del (/client/Del)
+  source file: Login.dm,840
+  usr: null
+  src: Guest-1476478977 (/client)
+  call stack:
+Guest-1476478977 (/client): Del()
+Guest-1476478977 (/client): Del()
+Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/KageLider/verb/Diplomacia) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5851
+  usr: (src)
+  src: Uchiha the iago (/mob)
+  src.loc: the muddy (624,137,9) (/turf/muddy)
+  call stack:
+Uchiha the iago (/mob): LoadParte1()
+Uchiha the iago (/mob): Choice()
+Uchiha the iago (/mob): Login()
+Warning: type read from file (/mob/KageLider/verb/Diplomacia) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5851
+  usr: (src)
+  src: Uchiha the iago (/mob)
+  src.loc: the muddy (624,137,9) (/turf/muddy)
+  call stack:
+Uchiha the iago (/mob): LoadParte1()
+Uchiha the iago (/mob): Choice()
+Uchiha the iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/KageLider/verb/Diplomacia) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5851
+  usr: (src)
+  src: Uchiha the iago (/mob)
+  src.loc: the muddy (624,137,9) (/turf/muddy)
+  call stack:
+Uchiha the iago (/mob): LoadParte1()
+Uchiha the iago (/mob): Choice()
+Uchiha the iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/KageLider/verb/Diplomacia) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5859
+  usr: (src)
+  src: Uchiha the iago (/mob)
+  src.loc: the muddy (624,137,9) (/turf/muddy)
+  call stack:
+Uchiha the iago (/mob): LoadParte1()
+Uchiha the iago (/mob): Choice()
+Uchiha the iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/KageLider/verb/Diplomacia) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5854
+  usr: (src)
+  src: Uchiha the iago (/mob)
+  src.loc: the muddy (624,137,9) (/turf/muddy)
+  call stack:
+Uchiha the iago (/mob): LoadParte1()
+Uchiha the iago (/mob): Choice()
+Uchiha the iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+Warning: type read from file (/mob/KageLider/verb/Diplomacia) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  source file: Mecanica.dm,5854
+  usr: (src)
+  src: Uchiha the iago (/mob)
+  src.loc: the muddy (624,137,9) (/turf/muddy)
+  call stack:
+Uchiha the iago (/mob): LoadParte1()
+Uchiha the iago (/mob): Choice()
+Uchiha the iago (/mob): create()
+Uchiha the iago (/mob): Choice()
+Uchiha the iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5835
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the housex3 (44,13,6) (/turf/wwhousex/housex3)
+  call stack:
+Uchiha Iago (/mob): Load()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5835
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: NONPK (65,26,6) (/turf/NONPK)
+  call stack:
+Uchiha Iago (/mob): Load()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5838
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: NONPK (31,16,6) (/turf/NONPK)
+  call stack:
+Uchiha Iago (/mob): Load()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5838
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: NONPK (73,9,6) (/turf/NONPK)
+  call stack:
+Uchiha Iago (/mob): Load()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5838
+  usr: (src)
+  src: Koori Mordekay (/mob)
+  src.loc: NONPK (66,12,6) (/turf/NONPK)
+  call stack:
+Koori Mordekay (/mob): Load()
+Koori Mordekay (/mob): Choice()
+Koori Mordekay (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5839
+  usr: (src)
+  src: Newdragun (/mob)
+  src.loc: NONPK (62,16,6) (/turf/NONPK)
+  call stack:
+Newdragun (/mob): Load()
+Newdragun (/mob): Choice()
+Newdragun (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5839
+  usr: (src)
+  src: Newdragun (/mob)
+  src.loc: NONPK (73,10,6) (/turf/NONPK)
+  call stack:
+Newdragun (/mob): Load()
+Newdragun (/mob): Choice()
+Newdragun (/mob): create()
+Newdragun (/mob): Choice()
+Newdragun (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5839
+  usr: (src)
+  src: Newdragun (/mob)
+  src.loc: NONPK (67,9,6) (/turf/NONPK)
+  call stack:
+Newdragun (/mob): Load()
+Newdragun (/mob): Choice()
+Newdragun (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5839
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: NONPK (76,9,6) (/turf/NONPK)
+  call stack:
+Uchiha Iago (/mob): Load()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46845
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the cavechao (27,420,10) (/turf/cavernax/cavechao)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the cavechao (32,420,10) (/turf/cavernax/cavechao), 8)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46845
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the cavechao (26,420,10) (/turf/cavernax/cavechao)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the cavechao (31,420,10) (/turf/cavernax/cavechao), 8)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46845
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the cavechao (27,420,10) (/turf/cavernax/cavechao)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the cavechao (32,420,10) (/turf/cavernax/cavechao), 8)
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5839
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (552,362,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): Load()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5839
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the mud1 (564,365,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/mob): Load()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5839
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the mud1 (542,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/mob): Load()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the mud1 (542,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/mob): Load()
+Uchiha Iago (/mob): Choice()
+Uchiha Iago (/mob): Login()
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (542,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (542,412,1) (/turf/nffmud/mud1), 1)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (540,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (540,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (543,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (543,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (544,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (544,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (545,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (545,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (545,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (545,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (545,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (545,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (545,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (545,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (545,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (545,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (546,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (546,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (546,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (547,412,1) (/turf/nffmud/mud1), 4)
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (547,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (546,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (547,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the mud1 (546,412,1) (/turf/nffmud/mud1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Bump({Enemy}Ladrão (/mob/enemy/Ladrao))
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (547,412,1) (/turf/nffmud/mud1), 4)
+Uchiha Iago (/obj/DaiKamaitachi): Move(the mud1 (547,412,1) (/turf/nffmud/mud1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+runtime error: Cannot read 0.nin
+proc name: Bump (/obj/DaiKamaitachi/Bump)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5839
+  usr: (src)
+  src: Uzumaki the digDin (/mob)
+  src.loc: NONPK (64,15,6) (/turf/NONPK)
+  call stack:
+Uzumaki the digDin (/mob): Load()
+Uzumaki the digDin (/mob): Choice()
+Uzumaki the digDin (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): Load()
+Iago762 (/mob): Choice()
+Iago762 (/mob): create()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5841
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): Load()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5841
+  usr: (src)
+  src: Newdragun (/mob)
+  src.loc: null
+  call stack:
+Newdragun (/mob): Load()
+Newdragun (/mob): Choice()
+Newdragun (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5842
+  usr: (src)
+  src: Uzumaki the digDin (/mob)
+  src.loc: NONPK (70,10,6) (/turf/NONPK)
+  call stack:
+Uzumaki the digDin (/mob): Load()
+Uzumaki the digDin (/mob): Choice()
+Uzumaki the digDin (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  usr: (src)
+  src: Uzumaki the digDin (/mob)
+  src.loc: NONPK (70,10,6) (/turf/NONPK)
+  call stack:
+Uzumaki the digDin (/mob): Load()
+Uzumaki the digDin (/mob): Choice()
+Uzumaki the digDin (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5841
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): Load()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5841
+  usr: (src)
+  src: Newdragun (/mob)
+  src.loc: null
+  call stack:
+Newdragun (/mob): Load()
+Newdragun (/mob): Choice()
+Newdragun (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to atom.verbs.
+proc name: Load (/mob/proc/Load)
+  source file: Mecanica.dm,5841
+  usr: (src)
+  src: Newdragun (/mob)
+  src.loc: null
+  call stack:
+Newdragun (/mob): Load()
+Newdragun (/mob): Choice()
+Newdragun (/mob): Login()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+  usr: 0
+  src: Uchiha Iago (/obj/DaiKamaitachi)
+  src.loc: the grama1 (524,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (525,401,1) (/turf/nffgrama/grama1), 4)
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot read 0.nin
+proc name: Move (/obj/DaiKamaitachi/Move)
+  source file: JutsusClan.dm,46842
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (538,399,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (538,400,1) (/turf/KakashiTree5), 4)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (538,399,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (538,400,1) (/turf/KakashiTree5), 4)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (538,399,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (538,400,1) (/turf/KakashiTree5), 4)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (538,399,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (538,400,1) (/turf/KakashiTree5), 4)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (538,399,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (538,400,1) (/turf/KakashiTree5), 4)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (538,399,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (538,400,1) (/turf/KakashiTree5), 4)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (538,399,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (538,400,1) (/turf/KakashiTree5), 4)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (538,399,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (538,400,1) (/turf/KakashiTree5), 4)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (538,399,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (538,400,1) (/turf/KakashiTree5), 4)
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot write to world.loop_checks.
+proc name: New (/world/New)
+  source file: Vars.dm,30
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,402,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (549,400,1) (/turf/nffgrama/grama1), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,402,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (549,401,1) (/turf/nffgrama/grama1), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,402,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(the grama1 (549,401,1) (/turf/nffgrama/grama1), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,402,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (549,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,402,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (549,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,402,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (549,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,401,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (549,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,401,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (549,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: Uchiha Iago (/mob)
+  src.loc: Big Tree (548,400,1) (/turf/KakashiTree2)
+  call stack:
+Uchiha Iago (/mob): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,401,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: Uchiha Iago (/mob)
+  src.loc: Big Tree (548,400,1) (/turf/KakashiTree2)
+  call stack:
+Uchiha Iago (/mob): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,401,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: Uchiha Iago (/mob)
+  src.loc: Big Tree (548,400,1) (/turf/KakashiTree2)
+  call stack:
+Uchiha Iago (/mob): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+  usr: 0
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (548,401,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): Death(Uchiha Iago (/obj/DaiKamaitachi))
+Uchiha Iago (/obj/DaiKamaitachi): Move(Big Tree (549,402,1) (/turf/KakashiTree5), 1)
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: undefined variable /obj/DaiKamaitachi/var/client
+proc name: Death (/mob/proc/Death)
+  source file: Mecanica.dm,2606
+runtime error: Cannot read null.Village
+proc name: jutsu (/mob/proc/jutsu)
+  source file: NPCs.dm,1608
+  usr: (src)
+  src: {Enemy}Ladrão (/mob/enemy/Ladrao)
+  src.loc: the grama1 (537,390,1) (/turf/nffgrama/grama1)
+  call stack:
+{Enemy}Ladrão (/mob/enemy/Ladrao): jutsu()
+{Enemy}Ladrão (/mob/enemy/Ladrao): ai run away()
+{Enemy}Ladrão (/mob/enemy/Ladrao): ai random wander()
+{Enemy}Ladrão (/mob/enemy/Ladrao): ai random wander()
+runtime error: Cannot modify null.froze.
+proc name: TengaiShinsei2 (/mob/proc/TengaiShinsei2)
+  source file: SharinganMadara.dm,1056
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (520,403,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): TengaiShinsei2(null)
+Uchiha Iago (/mob): Tengai Shinsei({Enemy}Ladrão (/mob/enemy/Ladrao))
+runtime error: Cannot modify null.froze.
+proc name: TengaiShinsei2 (/mob/proc/TengaiShinsei2)
+  source file: SharinganMadara.dm,1056
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (520,402,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): TengaiShinsei2(null)
+Uchiha Iago (/mob): Tengai Shinsei({Enemy}Ladrão (/mob/enemy/Ladrao))
+runtime error: type mismatch: cannot compare "07" to 20
+proc name: PerderVip (/mob/proc/PerderVip)
+  source file: VIP.dm,625
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (94,592,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): PerderVip()
+Uchiha Iago (/mob): Logando()
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (98,566,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,566,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,565,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (96,565,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (96,564,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (96,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (96,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (95,564,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the mud2 (94,564,1) (/turf/nffmud/mud2)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the mud2 (93,564,1) (/turf/nffmud/mud2)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the mud2 (92,564,1) (/turf/nffmud/mud2)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the mud2 (93,564,1) (/turf/nffmud/mud2)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the mud2 (93,564,1) (/turf/nffmud/mud2)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (94,565,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (96,564,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.partysensei
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (96,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,564,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,564,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (96,564,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (96,562,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,562,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (98,564,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (98,564,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (99,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (99,565,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (99,564,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (98,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (98,561,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (100,561,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (100,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (99,563,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (99,561,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (99,561,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (98,567,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,567,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,566,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the build9993 (97,566,1) (/turf/nfficonsbuild/build9993)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (98,605,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (99,605,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (100,606,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (102,607,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (103,607,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (103,606,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (102,606,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (102,605,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (102,605,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (103,605,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (103,604,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (102,604,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (102,603,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (103,606,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the buildame1 (103,607,1) (/turf/nffrainpisos/buildame1)
+  call stack:
+Uchiha Iago (/mob): Sabaku Kyuu()
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+runtime error: Cannot read null.party
+proc name: Sabaku Kyuu (/mob/gaara/verb/SabakuKyuu)
+  source file: JutsusClan.dm,37049
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (533,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (533,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (533,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (532,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (533,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (533,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (533,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (534,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (535,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (535,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (536,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (536,399,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: Big Tree (535,398,1) (/turf/KakashiTree1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (535,402,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (535,402,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (535,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (535,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (534,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (534,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (533,401,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (533,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (533,398,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (532,398,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (528,398,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (527,398,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (526,400,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (526,404,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (525,397,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+runtime error: Cannot read null.party
+proc name: 
+  source file: JutsusClan.dm,37046
+  usr: (src)
+  src: Uchiha Iago (/mob)
+  src.loc: the grama1 (529,394,1) (/turf/nffgrama/grama1)
+  call stack:
+Uchiha Iago (/mob): (null)
+Warning: type read from file (/mob/verb/Ver_Mensagem) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the grama1 (159,346,1) (/turf/nffgrama/grama1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Ver_Mensagem) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the grama1 (159,346,1) (/turf/nffgrama/grama1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+Warning: type read from file (/mob/verb/Infos) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha1 (426,255,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+runtime error: Cannot read null.chakra
+proc name: Hakke Kuushou (/mob/hyuuga/verb/HakkeKuushou)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the pisokonoha (394,306,1) (/turf/nffpisoskonoha/pisokonoha)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hakke Kuushou()
+proc name: Load (/mob/proc/Load)
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: the dense (25,16,4) (/turf/dense)
+  call stack:
+Iago762 (/mob): Load()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+proc name: SalvarAgora (/mob/proc/SalvarAgora)
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): SalvarAgora()
+Iago762 (/mob): Logando()
+Iago762 (/mob): LoadParte1()
+Iago762 (/mob): Choice()
+Iago762 (/mob): Login()
+proc name: MDD (/mob/proc/MDD)
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): MDD()
+Iago762 (/mob): Logando()
+proc name: SalvarAgora (/mob/proc/SalvarAgora)
+  usr: (src)
+  src: Iago762 (/mob)
+  src.loc: null
+  call stack:
+Iago762 (/mob): SalvarAgora()
+Iago762 (/mob): Logout()
+proc name: SubAkatSave (/proc/SubAkatSave)
+  usr: (src)
+  src: null
+  call stack:
+SubAkatSave()
+world: Del()
+world: Del()
+proc name: scoreboard handling (/proc/scoreboard_handling)
+  usr: (src)
+  src: null
+  call stack:
+scoreboard handling("save")
+world: Del()
+world: Del()
+proc name: SaveCasas (/proc/SaveCasas)
+  usr: (src)
+  src: null
+  call stack:
+SaveCasas()
+world: Del()
+world: Del()
+world: Del()
+proc name: SalvarBijuus (/proc/SalvarBijuus)
+  usr: (src)
+  src: null
+  call stack:
+SalvarBijuus()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+proc name: BancosSave (/proc/BancosSave)
+  usr: (src)
+  src: null
+  call stack:
+BancosSave()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+world: Del()
+runtime error: Division by zero
+proc name: atualizar (/mob/proc/atualizar)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: Mountain (38,45,8) (/turf/mountain23)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): atualizar()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): atualizar()
+Warning: type read from file (/mob/cliff/verb/climbdown) is not defined
+Warning: type read from file (/mob/cliff/verb/climbup) is not defined
+runtime error: wrong type of value for list
+proc name: LoadParte1 (/mob/proc/LoadParte1)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the montanha100 (40,45,8) (/turf/mountain22)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): LoadParte1()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Choice()
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Login()
+runtime error: Cannot read null.Village
+proc name: jutsu (/mob/proc/jutsu)
+  usr: (src)
+  src: Guardiao de Konoha (/mob/enemy/Leafvillageshinobi)
+  src.loc: the pisokonoha1 (399,297,1) (/turf/nffpisoskonoha/pisokonoha1)
+  call stack:
+Guardiao de Konoha (/mob/enemy/Leafvillageshinobi): jutsu()
+Guardiao de Konoha (/mob/enemy/Leafvillageshinobi): ai run away()
+Guardiao de Konoha (/mob/enemy/Leafvillageshinobi): ai random wander()
+Guardiao de Konoha (/mob/enemy/Leafvillageshinobi): ai random wander()
+runtime error: Cannot modify null.health.
+proc name: Matar (/mob/ADM/verb/DeathVerb)
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the grass (99,191,10) (/turf/grass)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Matar(null)
+runtime error: Cannot modify null.health.
+proc name: Matar (/mob/ADM/verb/DeathVerb)
+  source file: Admin.dm,2794
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the grama1 (533,402,1) (/turf/nffgrama/grama1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Matar(null)
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the gramaesc1 (401,318,1) (/turf/nffgramaescura/gramaesc1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the grama1 (546,391,1) (/turf/nffgrama/grama1)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (332,627,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (319,632,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (314,635,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (320,633,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (299,653,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (289,658,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (292,650,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (293,654,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (289,658,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (318,643,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
+runtime error: Cannot modify null.hyoushou.
+proc name: Hijutsu: Makyou Hyoushou (/mob/haku/verb/MakyouHyoushou)
+  source file: JutsusClan.dm,36285
+  usr: (src)
+  src: <FONT COLOR=\"#daa520\">H</FON... (/mob)
+  src.loc: the cavechao (320,653,10) (/turf/cavernax/cavechao)
+  call stack:
+<FONT COLOR=\"#daa520\">H</FON... (/mob): Hijutsu: Makyou Hyoushou()
